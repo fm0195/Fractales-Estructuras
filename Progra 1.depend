@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1410216518 source:c:\users\fercho\desktop\pruebas\src\fractales.cpp
+
+1410216518 source:c:\users\fercho\desktop\pruebas\src\slinkedlist.cpp
+
+1410216518 source:c:\users\fercho\desktop\pruebas\src\snode.cpp
+
+1410216519 source:c:\users\fercho\desktop\pruebas\src\trazos.cpp
+
+1410413428 source:c:\users\fercho\desktop\pruebas\main.cpp
+	<iostream>
+	<winbgim.h>
+	<Trazos.h>
+	<Fractales.h>
+	<string>
+	<winbgim.h>
+
+1410216514 c:\users\fercho\desktop\pruebas\include\trazos.h
+	<string>
+	<iostream>
+
+1410411728 c:\users\fercho\desktop\pruebas\include\fractales.h
+	<SLinkedList.h>
+	<Trazos.h>
+	<cstdlib>
+	<iostream>
+
+1410409955 c:\users\fercho\desktop\pruebas\include\slinkedlist.h
+	<stdexcept>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	"SNode.h"
+
+1410216514 c:\users\fercho\desktop\pruebas\include\snode.h
+	<cstdlib>
+
+1410216518 source:c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\src\fractales.cpp
+
+1410216518 source:c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\src\slinkedlist.cpp
+
+1410216518 source:c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\src\snode.cpp
+
+1410216519 source:c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\src\trazos.cpp
+
+1410415138 source:c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\main.cpp
+	<iostream>
+	<winbgim.h>
+	<Trazos.h>
+	<Fractales.h>
+	<string>
+	<winbgim.h>
+
+1410216514 c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\include\trazos.h
+	<string>
+	<iostream>
+
+1410411728 c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\include\fractales.h
+	<SLinkedList.h>
+	<Trazos.h>
+	<cstdlib>
+	<iostream>
+
+1410409955 c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\include\slinkedlist.h
+	<stdexcept>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	"SNode.h"
+
+1410216514 c:\users\fercho\google drive\tec\ii semestre\estructuras de datos\progra 1\include\snode.h
+	<cstdlib>
+

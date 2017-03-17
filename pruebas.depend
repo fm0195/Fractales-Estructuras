@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1410214745 source:c:\users\yordan\desktop\pruebas\main.cpp
+	<iostream>
+	<winbgim.h>
+	<Trazos.h>
+	<Fractales.h>
+	<string>
+
+1409726876 source:c:\users\yordan\desktop\pruebas\src\trazos.cpp
+
+1410214449 c:\users\yordan\desktop\pruebas\include\trazos.h
+	<string>
+	<iostream>
+
+1410208514 c:\users\yordan\desktop\pruebas\include\fractales.h
+	<SLinkedList.h>
+	<Trazos.h>
+	<cstdlib>
+	<iostream>
+
+1410214460 c:\users\yordan\desktop\pruebas\include\slinkedlist.h
+	<stdexcept>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	"SNode.h"
+
+1409727370 c:\users\yordan\desktop\pruebas\include\snode.h
+	<cstdlib>
+
+1409726967 source:c:\users\yordan\desktop\pruebas\src\fractales.cpp
+
+1409727282 source:c:\users\yordan\desktop\pruebas\src\slinkedlist.cpp
+
+1409727129 source:c:\users\yordan\desktop\pruebas\src\snode.cpp
+
+1410372614 source:c:\users\fercho\desktop\pruebas\main.cpp
+	<iostream>
+	<winbgim.h>
+	<Trazos.h>
+	<Fractales.h>
+	<string>
+	<winbgim.h>
+
+1410216514 c:\users\fercho\desktop\pruebas\include\trazos.h
+	<string>
+	<iostream>
+
+1410369068 c:\users\fercho\desktop\pruebas\include\fractales.h
+	<SLinkedList.h>
+	<Trazos.h>
+	<cstdlib>
+	<iostream>
+
+1410216513 c:\users\fercho\desktop\pruebas\include\slinkedlist.h
+	<stdexcept>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	"SNode.h"
+
+1410216514 c:\users\fercho\desktop\pruebas\include\snode.h
+	<cstdlib>
+
+1410216518 source:c:\users\fercho\desktop\pruebas\src\fractales.cpp
+
+1410216518 source:c:\users\fercho\desktop\pruebas\src\slinkedlist.cpp
+
+1410216518 source:c:\users\fercho\desktop\pruebas\src\snode.cpp
+
+1410216519 source:c:\users\fercho\desktop\pruebas\src\trazos.cpp
+
